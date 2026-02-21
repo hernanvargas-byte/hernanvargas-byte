@@ -1,16 +1,33 @@
-## Hi there 👋
+## Hi there 👋 I'm Hernán Vargas
 
-<!--
-**hernanvargas-byte/hernanvargas-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## QA Engineer | Manual Tester | Web Testing Specialist
 
-Here are some ideas to get you started:
+I am a detail-oriented QA professional focused on functional testing, cross-browser validation and structured defect reporting.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently building a strong foundation in software quality assurance through real-world testing projects.
+
+---
+
+## 🚀 Featured Projects
+
+- 🚗 Urban Routes – Web Functional Testing  
+- 📋 Urban Routes – Test Design & Documentation  
+
+---
+
+## 🎯 Core Skills
+
+- Functional Testing  
+- Test Case Design  
+- Cross-Browser Testing  
+- UI Validation  
+- Bug Reporting (Jira)  
+- Boundary Value Analysis  
+- Equivalence Partitioning  
+
+---
+
+## 📬 Contact
+
+📧 Email: Hernanvargas.latam@gmail.com  
+💼 LinkedIn: www.linkedin.com/in/hernan-v-latam
