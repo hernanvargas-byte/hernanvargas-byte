@@ -14,10 +14,10 @@ Focused on replacing inefficient, high-risk manual routines with modular automat
 * 🚖 [Urban Routes – E2E Test Automation Framework (POM & Pytest)](https://github.com/hernanvargas-byte/qa-project-Urban-Routes-es)
   * Designed and executed a complete end-to-end regression suite using **Python**, **Selenium WebDriver**, and **Pytest**. Implemented the **Page Object Model (POM)** for structural locator isolation, embedded dynamic explicit waits, and configured native browser log interception to dynamically process backend SMS verification tokens.
 
-* 📍 [Urban Routes – Web Functional Testing](https://github.com/hernanvargas-byte/qa-project-Urban-Routes-es)
+* 📍 [Urban Routes – Web Functional Testing](https://github.com/hernanvargas-byte/urban-routes-web-functional-testing)
   * Performed extensive web functional testing, applying black-box techniques, validating data integration, and checking multi-browser UI behaviors against business logic.
 
-* 📋 [Urban Routes – Test Design & Documentation](https://github.com/hernanvargas-byte/qa-project-Urban-Routes-es)
+* 📋 [Urban Routes – Test Design & Documentation](https://github.com/hernanvargas-byte/urban-routes-test-design)
   * Authored comprehensive testing artifacts, covering rigorous test case design matrices, boundary condition analysis, equivalence partitioning, and structured defect reporting.
 
 ---
