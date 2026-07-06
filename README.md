@@ -1,33 +1,36 @@
 ## Hi there 👋 I'm Hernán Vargas
 ![Banner de Perfil](https://raw.githubusercontent.com/hernanvargas-byte/hernanvargas-byte/main/Banner.png)
-## QA Engineer | Manual Tester | Web Testing Specialist
 
-I am a detail-oriented QA professional focused on functional testing, cross-browser validation and structured defect reporting.
+## QA Engineer | Test Automation & Quality Assurance Specialist
 
-Currently building a strong foundation in software quality assurance through real-world testing projects.
+I am a QA professional transitioning from high-demand operations management into the tech ecosystem, translating a sharp analytical mindset and rigorous training into software reliability. 
 
----
-
-## 🚀 Featured Projects
-
-- 🚗 Urban Routes – Web Functional Testing  
-- 📋 Urban Routes – Test Design & Documentation  
+Focused on replacing inefficient, high-risk manual routines with modular automated frameworks. I leverage structured design patterns to guarantee that software components deliver seamless transactional workflows before reaching production.
 
 ---
 
-## 🎯 Core Skills
+### 🚀 Featured Projects
 
-- Functional Testing  
-- Test Case Design  
-- Cross-Browser Testing  
-- UI Validation  
-- Bug Reporting (Jira)  
-- Boundary Value Analysis  
-- Equivalence Partitioning  
+* 🚖 [Urban Routes – E2E Test Automation Framework (POM & Pytest)](https://github.com/hernanvargas-byte/qa-project-Urban-Routes-es)
+  * Designed and executed a complete end-to-end regression suite using **Python**, **Selenium WebDriver**, and **Pytest**. Implemented the **Page Object Model (POM)** for structural locator isolation, embedded dynamic explicit waits, and configured native browser log interception to dynamically process backend SMS verification tokens.
+
+* 📍 [Urban Routes – Web Functional Testing](https://github.com/hernanvargas-byte/qa-project-Urban-Routes-es)
+  * Performed extensive web functional testing, applying black-box techniques, validating data integration, and checking multi-browser UI behaviors against business logic.
+
+* 📋 [Urban Routes – Test Design & Documentation](https://github.com/hernanvargas-byte/qa-project-Urban-Routes-es)
+  * Authored comprehensive testing artifacts, covering rigorous test case design matrices, boundary condition analysis, equivalence partitioning, and structured defect reporting.
 
 ---
 
-## 📬 Contact
+### 🎯 Core Focus & Competencies
 
-📧 Email: Hernanvargas.latam@gmail.com  
-💼 LinkedIn: www.linkedin.com/in/hernan-v-latam
+* **Test Automation Architecture:** Page Object Model (POM), Script Modularity, Dynamic Explicit Waits.
+* **Testing Techniques:** Boundary Value Analysis (BVA), Equivalence Partitioning, Integration & E2E Testing.
+* **Defect Lifecycle Management:** Clear Step-by-Step Reporting, Log Ingestion, Severity/Priority Mapping.
+
+---
+
+### 📬 Contact & Connect
+
+* 📧 **Email:** [Hernanvargas.latam@gmail.com](mailto:Hernanvargas.latam@gmail.com)
+* 💼 **LinkedIn:** [linkedin.com/in/hernan-v-latam](https://www.linkedin.com/in/hernan-v-latam)
