@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Hernán Vargas
-![Banner de Perfil](https://raw.githubusercontent.com/TU_USUARIO_DE_GITHUB/TU_USUARIO_DE_GITHUB/main/Banner.png)
+![Banner de Perfil]([https://raw.githubusercontent.com/TU_USUARIO_DE_GITHUB/TU_USUARIO_DE_GITHUB/main/Banner.png](https://github.com/hernanvargas-byte/hernanvargas-byte/blob/main/Banner.png))
 ## QA Engineer | Manual Tester | Web Testing Specialist
 
 I am a detail-oriented QA professional focused on functional testing, cross-browser validation and structured defect reporting.
