@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Hernán Vargas
-
+![Banner de Perfil](hBanner.png)
 ## QA Engineer | Manual Tester | Web Testing Specialist
 
 I am a detail-oriented QA professional focused on functional testing, cross-browser validation and structured defect reporting.
