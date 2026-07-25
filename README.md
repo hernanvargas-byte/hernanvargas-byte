@@ -16,12 +16,12 @@ Designed and implemented a comprehensive backend integration and functional vali
 *   **Technologies:** Python, Pytest, Requests, Postman.
 *   **Core Achievements:** Automated endpoint validations (GET, POST, PUT, DELETE), schema verification, dynamic payload injection, and status code assertions. Streamlined backend testing by replacing manual Postman collections with a fully automated pythonic framework.
 
-### 🚖 [Urban Routes – E2E Test Automation Framework](https://github.com/hernanvargas-byte/urban-routes-web-functional-testing)
+### 🚖 [Urban Routes – E2E Test Automation Framework](https://github.com/hernanvargas-byte/qa-project-Urban-Routes-es)
 Designed and executed a complete end-to-end regression suite using Python, Selenium WebDriver, and Pytest.
 *   **Technologies:** Python, Pytest, Selenium, Page Object Model (POM).
 *   **Core Achievements:** Implemented Page Object Model (POM) for structural locator isolation, embedded dynamic explicit waits, and configured native browser log interception to dynamically process backend SMS verification tokens.
 
-### 📍 [Urban Routes – Web Functional Testing](https://github.com/hernanvargas-byte/urban-routes-test-design)
+### 📍 [Urban Routes – Web Functional Testing](https://github.com/hernanvargas-byte/urban-routes-web-functional-testing)
 Performed extensive web functional testing, applying black-box techniques, validating data integration, and checking multi-browser UI behaviors against business logic.
 *   **Methodology:** Integration testing, cross-browser verification, UI/UX consistency, and backend data state analysis.
 
